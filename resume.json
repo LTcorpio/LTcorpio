@@ -1,7 +1,7 @@
 {
     "titleNameMap": {
         "educationList": "教育背景",
-        "workExpList": "工作经历",
+        "workExpList": "实习经历",
         "projectList": "项目经历",
         "skillList": "个人技能",
         "awardList": "更多信息",
@@ -70,7 +70,7 @@
                 "2023.07",
                 "2023.09"
             ],
-            "work_desc": "技术服务部大数据实习生。\r\n1. 在基于微服务构建的云服务平台中部署大数据集群服务，调度不同的集群资源。\r\n2. 负责大数据平台的部署与优化，涵盖 Hadoop、Hive 及 Zookeeper 等关键组件的配置与维护。\r\n3. 基于 ECharts、FineBI、Superset 对数据进行可视化，对于数据与图表敏感。"
+            "work_desc": "技术服务部大数据实习生。\r\n1. 在基于微服务构建的云服务平台中部署大数据集群服务，调度不同的集群资源。\r\n2. 负责大数据平台的部署与优化，涵盖 Hadoop、Hive 及 Zookeeper 等关键组件的配置与维护。\r\n3. 基于 ECharts、FineBI、Superset 对数据进行可视化，对数据与图表敏感。"
         },
         {
             "company_name": "杭州再启信息科技有限公司",
@@ -111,7 +111,14 @@
             "project_role": "核心开发者",
             "project_time": "2022.11 - 2023.05",
             "project_desc": "2023 年毕业设计。一个展示校园各种信息的大屏展示系统。",
-            "project_content": "基于 Vue 框架开发的各类校园信息展示大屏，使用 ECharts 可视化库、WebSocket 数据实时交互。"
+            "project_content": "基于 Vue 框架开发的各类校园信息展示大屏，使用 ECharts 可视化库、WebSocket 数据实时交互。\r\n技术栈：Vue3, TypeScript, SQLite, Nginx"
+        },
+        {
+            "project_name": "客户画像系统 ",
+            "project_role": "项目成员",
+            "project_time": "2022.05 - 2022.10",
+            "project_desc": "2023 年毕业设计。一个展示校园各种信息的大屏展示系统。",
+            "project_content": "基于 SpringBoot 框架开发的用户画像系统，包括后台管理、客户信息聚合分析、区域消费汇总与预测分析、支付偏好分析等。\r\n技术栈：Java, SpringBoot, MySQL, Hadoop"
         }
     ],
     "workList": [],
