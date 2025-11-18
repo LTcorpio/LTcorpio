@@ -2,109 +2,121 @@
     "titleNameMap": {
         "educationList": "教育背景",
         "workExpList": "工作经历",
-        "projectList": "项目经验",
+        "projectList": "项目经历",
         "skillList": "个人技能",
         "awardList": "更多信息",
         "workList": "个人作品",
-        "aboutme": "个人评价"
+        "aboutme": "自我介绍"
     },
     "avatar": {
-        "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+        "src": "http://localhost:5244/d/%E6%9D%A5%E8%87%AA%20Mac%20%E7%9A%84%E5%85%AC%E5%85%B1%E5%AD%98%E5%82%A8/xjpic.jpg?sign=sMIkBJIFAGnBIwhbwmILliBEPvlq-_k3ertFk-Xngqc=:0",
         "hidden": false
     },
     "profile": {
-        "name": "LXJ",
-        "email": "736xxxx86@qq.com",
-        "mobile": "156xxxx7119",
-        "github": "https://github.com/visiky (1.1k 粉丝)",
-        "zhihu": "https://www.zhihu.com/people/visiky",
-        "workExpYear": ""
+        "name": "娄星杰",
+        "email": "xingjie.lou@qq.com",
+        "mobile": "18457195807",
+        "github": "https://github.com/LTcorpio",
+        "zhihu": "",
+        "workExpYear": "",
+        "workPlace": "浙江省杭州市",
+        "positionTitle": ""
     },
     "educationList": [
         {
             "edu_time": [
-                "2014.09.01",
-                "2018.06.30"
+                "2023.09",
+                "2025.06"
             ],
-            "school": "华南理工大学",
-            "major": "网络工程",
-            "academic_degree": "本科"
+            "school": "绍兴文理学院",
+            "major": "微电子科学与工程",
+            "academic_degree": "本科",
+            "dataIndex": 0
+        },
+        {
+            "edu_time": [
+                "2020.10",
+                "2023.06"
+            ],
+            "school": "宁波职业技术学院",
+            "major": "人工智能技术应用"
         }
     ],
     "awardList": [
         {
-            "award_info": "英语 CET6",
-            "award_time": "2015"
+            "award_info": "大学英语六级 (CET-6)",
+            "award_time": "2022.03",
+            "dataIndex": 0
         },
         {
-            "award_info": "蚂蚁近卫军 卓越个人奖",
-            "award_time": "2018.09"
-        },
-        {
-            "award_info": "前端练习生 可视化讲师",
-            "award_time": "2020.10"
-        },
-        {
-            "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-            "award_time": "2021.07"
+            "award_info": "全国职业院校技能大赛大数据技术与应用一等奖",
+            "award_time": "2022.08"
         }
     ],
     "workExpList": [
         {
-            "company_name": "蚂蚁集团",
-            "department_name": "体验技术部",
+            "company_name": "汇医达(杭州)科技有限公司",
+            "department_name": "市场部",
             "work_time": [
-                "2018.06",
-                null
+                "2025.02",
+                "2025.04"
             ],
-            "work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
+            "work_desc": "市场部实习生。\r\n1. 负责期刊信息、各高校/医院负责人学术成就的检索。\r\n2. 负责市场部(国际)的邮件模板制作。"
         },
         {
-            "company_name": "蚂蚁金服",
-            "department_name": "大数据部",
+            "company_name": "阅动(广东)信息技术有限公司",
+            "department_name": "技术服务部",
             "work_time": [
-                "2017.06",
-                "2017.12"
+                "2023.07",
+                "2023.09"
             ],
-            "work_desc": "前端实习生。使用 React 参与开发多类数据产品的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
+            "work_desc": "技术服务部大数据实习生。\r\n1. 在基于微服务构建的云服务平台中部署大数据集群服务，调度不同的集群资源。\r\n2. 负责大数据平台的部署与优化，涵盖 Hadoop、Hive 及 Zookeeper 等关键组件的配置与维护。\r\n3. 基于 ECharts、FineBI、Superset 对数据进行可视化，对于数据与图表敏感。"
         },
         {
-            "company_name": "数沃信息科技有限公司",
+            "company_name": "杭州再启信息科技有限公司",
             "department_name": "",
             "work_time": [
-                "2017.03",
-                "2017.05"
+                "2023.05",
+                "2023.07"
             ],
-            "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
+            "work_desc": "数据助理实习生。\r\n1. 负责文字、图像与视频的标注。\r\n2. 负责指定场景或主题的人设对话创作、标注 AI 模型生成文本的可信度与合理性。\r\n3. 在之江实验室参与《四足狗寻找抓取数据采集》项目，即通过机械四足狗自动寻找并抓取垃圾，并判断垃圾的类型，完成垃圾分类。"
         }
     ],
-    "skillList": [],
+    "skillList": [
+        {
+            "skill_name": "HTML / CSS",
+            "skill_desc": "",
+            "skill_level": 80
+        },
+        {
+            "skill_name": "TypeScript / JavaScript",
+            "skill_level": 85
+        },
+        {
+            "skill_name": "Vue / React / 前端工程化",
+            "skill_level": 80
+        },
+        {
+            "skill_name": "数据可视化",
+            "skill_level": 90
+        },
+        {
+            "skill_name": "Docker",
+            "skill_level": 60
+        }
+    ],
     "projectList": [
         {
-            "project_name": "数据作战室",
-            "project_role": "前端负责人",
-            "project_time": "2019.04 - 2020.06",
-            "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同的数据产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取指标进展以及决策洞察，并提升管理效率。",
-            "project_content": "1. 独立负责产品从 0 到 1 的开发、产品功能迭代（在项目中具有推动项目进度的经验） 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
-        },
-        {
-            "project_name": "DeepInsight",
-            "project_role": "可视分析负责人",
-            "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
-            "project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，主要功能包括可视化看板搭建、智能分析、数据产品建站等。看板功能类似于火山引擎、PowerBI等产品。） ",
-            "project_content": "在该项目中主要负责可视化建设以及工程治理\n1. 主导开放能力建设，拉通产品、设计建设和扩展 40+ 可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设、促进数据分析能力增强等可视化一体化建设。同时也是 AntV G2Plot 负责人，负责将可视化技术和业务相结合。"
-        },
-        {
-            "project_name": "G2、G2Plot",
+            "project_name": "智慧校园信息数据大屏",
             "project_role": "核心开发者",
-            "project_time": "2019 - 至今",
-            "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
-            "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作，同时服务蚂蚁内部所有使用 G2 栈的用户，提供可视化解决方案和定制可视化的协助。"
+            "project_time": "2022.11 - 2023.05",
+            "project_desc": "2023 年毕业设计。一个展示校园各种信息的大屏展示系统。",
+            "project_content": "基于 Vue 框架开发的各类校园信息展示大屏，使用 ECharts 可视化库、WebSocket 数据实时交互。"
         }
     ],
     "workList": [],
     "aboutme": {
-        "aboutme_desc": "🌱 多年大型项目经历，专注在可视分析领域\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。2.可视化经验: 通用组件设计和开发经验丰富，也能完成定制可视化诉求\n其它: 1. 前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot” 2. 蚂蚁集团前端练习生 可视化讲师 3. D2论坛小游戏: https://antv.gitee.io/zh/d2, https://antv-studio.antfin.com/bless-heatmap"
+        "aboutme_desc": "在校期间曾担任学院大数据工作坊组长，组织团队之间的各项活动与比赛备赛等。性格为 INFJ，自驱型前端工程师，使用 Vue / React 开发了一些自己使用的小工具，有着良好的代码规范性。"
     },
     "theme": {
         "color": "#2f5785",
